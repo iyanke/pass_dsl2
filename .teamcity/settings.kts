@@ -33,7 +33,7 @@ project {
 
 object PassleakConfig : BuildType({
     templates(Template5)
-    name = "Passleak config"
+    name = "Passleak config1"
 })
 
 object Template5 : Template({
