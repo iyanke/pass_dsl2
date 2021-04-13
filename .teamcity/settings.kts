@@ -28,16 +28,16 @@ project {
 
     buildType(PassleakConfig)
 
-    template(Template4)
+    template(Template5)
 }
 
 object PassleakConfig : BuildType({
-    templates(Template4)
+    templates(Template5)
     name = "Passleak config"
 })
 
-object Template4 : Template({
-    name = "Template4"
+object Template5 : Template({
+    name = "Template5"
 
     steps {
         step {
