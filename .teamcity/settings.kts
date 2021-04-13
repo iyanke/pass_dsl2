@@ -37,7 +37,7 @@ object PassleakConfig : BuildType({
 })
 
 object Template5 : Template({
-    name = "Template5"
+    name = "Template6"
 
     steps {
         step {
